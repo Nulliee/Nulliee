@@ -5,7 +5,7 @@
 
 -  ##### How To Copy Nullie's Github Projects
 
-```zsh
+```bash
 git clone https://github.com/Nulliee/cords-handler.git
 ```
 
