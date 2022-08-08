@@ -5,8 +5,14 @@
 
 -  ##### How To Copy Nullie's Github Projects
 
-```shell
-git clone https://github.com/Nulliee/cords-handler.git
+```js
+console.log(`Javascript`)
+```
+```lua
+print('Lua')
+```
+```html
+<h1> <%= <user>.name %> </h1>
 ```
 
 
