@@ -6,13 +6,13 @@
 -  ##### Languages
 
 ```js
-console.log("Nullie Is Better Than He")
+console.log("Javascript")
 ```
 ```lua
-print('Nullie Is Better Than He')
+print('Lua')
 ```
-```html
-<p> Nullie Is Better Than He </p>
+```ejs
+<h1> <%= <user>.name %> </h1>
 ```
 
 
