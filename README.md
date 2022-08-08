@@ -3,16 +3,10 @@
    > * [Discord]()
    > * [Syth Devs]()
 
--  ##### Languages
+-  ##### How To Copy Nullie's Github Projects
 
-```js
-console.log("Javascript")
-```
-```lua
-print('Lua')
-```
-```ejs
-<h1> <%= <user>.name %> </h1>
+```bash
+
 ```
 
 
