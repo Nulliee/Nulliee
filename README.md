@@ -3,7 +3,7 @@
    > * [Discord]()
    > * [Syth Devs]()
 
--  ##### How To Copy Nullie's Github Projects
+-  ##### Languages
 
 ```js
 console.log(`Javascript`)
