@@ -6,7 +6,7 @@
 -  ##### Languages
 
 ```js
-document.querySelector('.li')
+console.log("node.js")
 ```
 ```lua
 print('Lua')
