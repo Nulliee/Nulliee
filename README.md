@@ -6,7 +6,10 @@
 -  ##### Languages
 
 ```js
-console.log("node.js")
+console.log("Node.js")
+```
+```html
+<h1> Html <h1>
 ```
 ```lua
 print('Lua')
