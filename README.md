@@ -1,5 +1,5 @@
  ## 🌙 Hi There I am Nullie(Göktürk), i am JavaScript coder.
-   > * [İnstagram](https://www.instagram.com/gokturk.topal18/)
+   > * [İnstagram](https://www.instagram.com/)
    > * [Discord](https://discord.com/users/725682491658207304)
    > * [Syth Devs]()
 
