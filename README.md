@@ -6,7 +6,7 @@
 -  ##### Languages
 
 ```js
-console.log("Node.js")
+console.log("Javascript")
 ```
 ```html
 <h1> Html <h1>
